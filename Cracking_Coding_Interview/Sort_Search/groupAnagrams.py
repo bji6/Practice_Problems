@@ -21,7 +21,7 @@ def anagramGroup(string_list):
 
 
 def main():
-	list1 = ["insect","Anna Madrigal","Tom Marvelo Riddle","listen","I am Lord Voldemort","incest","A man and a girl","silent"]
+	list1 = ["insect","Anna Madrigal","Tom Marvelo Riddle","listen","I am Lord Voldemort","A man and a girl","silent"]
 
 	print(anagramGroup(list1))
 
